@@ -1,2 +1,3 @@
-# hello-world
-ideas, resources
+#hello-world
+
+Hello World:)
